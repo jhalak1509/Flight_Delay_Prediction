@@ -1,4 +1,4 @@
-# ML_Data_Cleaning_And_Feature_Selection
+# ML Data Cleaning And Feature Selection
 
 I used a dataset for predictive learning and to check the quality of the data and determine which features are important.
 
